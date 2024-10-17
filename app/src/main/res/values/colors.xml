@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bleu">#848DFE</color>
+    <color name="mauve">#AA93FF</color>
+    <color name="azul">#0528EE</color>
+    <color name="blanc_sale">#F4F1F1</color>
+    <color name="bleu_royale">#5500FF</color>
+    <color name="bleu2">#5362F7</color>
+    <color name="lavendre">#B355F7</color>
+    <color name="gris">#222B45</color>
+    <color name="selectedTextColor">#FF0000</color>
+    <color name="originalTextColor">#000000</color>
+
+</resources>

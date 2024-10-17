@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">onMOVE</string>
+    <string name="OnMove">OnMOVE</string>
+    <string name="acceder">Accéder</string>
+    <string name="se_connecter">se connecter</string>
+    <string name="VotreEmail">Votre Email</string>
+    <string name="MDP">Votre mot de passe</string>
+    <string name="recuperation">Récupérer mot de passe</string>
+    <string name="Memoriser">Mémoriser l\'accés</string>
+    <string name="text_inscription">Pas inscrit ? Creer un compte</string>
+    <string name="title_inscription">Créer un compte</string>
+    <string name="rappel">Rappel d\'inactivité</string>
+    <string name="Medoc">Prendre médicaments </string>
+    <string name="RDV">Mes rendez-vous </string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="forward"><![CDATA[>]]></string>
+    <string name="fab_description">Ajouter</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="intervalos_array">
+        <item>6 heures</item>
+        <item>8 heures</item>
+        <!-- Adicione mais itens conforme necessário -->
+    </string-array>
+</resources>

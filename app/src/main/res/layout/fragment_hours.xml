@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_container">
+
+
+
+    <Button
+        android:id="@+id/AugmenterHeure"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:text="+"
+        android:textSize="30sp"
+        android:backgroundTint="@color/bleu_royale"
+        android:layout_marginTop="255dp"
+        android:layout_marginStart="100dp">
+
+    </Button>
+
+
+    <EditText
+        android:id="@+id/heure"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="255dp"
+        android:layout_marginStart="130dp"
+        android:inputType="number"
+        android:text="00"
+        android:background="@android:color/transparent"
+        android:textSize="25sp"
+        android:gravity="center">
+
+    </EditText>
+    <TextView
+        android:layout_width="20dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="240dp"
+        android:layout_marginStart="190dp"
+        android:text=":"
+        android:textSize="40sp">
+
+    </TextView>
+
+
+    <Button
+        android:id="@+id/DiminuerHeure"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:text="-"
+        android:backgroundTint="@color/bleu_royale"
+        android:layout_marginTop="290dp"
+        android:layout_marginStart="100dp">
+
+    </Button>
+
+    <EditText
+        android:id="@+id/minute"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="255dp"
+        android:layout_marginStart="200dp"
+        android:text="00"
+        android:textSize="25sp"
+        android:background="@android:color/transparent"
+        android:gravity="center">
+
+    </EditText>
+    <Button
+        android:id="@+id/AugmenterMinute"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:text="+"
+        android:backgroundTint="@color/bleu_royale"
+        android:layout_marginTop="255dp"
+        android:layout_marginStart="260dp">
+
+    </Button>
+    <Button
+        android:id="@+id/DiminuerMinute"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:text="-"
+        android:backgroundTint="@color/bleu_royale"
+        android:layout_marginTop="290dp"
+        android:layout_marginStart="260dp">
+
+    </Button>
+
+    <EditText
+        android:layout_width="375dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="380dp"
+        android:hint="  saisir mon rendez-vous "
+        android:background="@drawable/button"
+        android:padding="12dp"
+        android:layout_marginStart="21dp"
+        android:backgroundTint="@color/blanc_sale"
+        android:id="@+id/ajouter_RDV">
+    </EditText>
+
+    <Button
+        android:id="@+id/buttonRendezVous"
+        android:layout_width="190dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="480dp"
+        android:backgroundTint="@color/bleu_royale"
+        android:textSize="20sp"
+        android:layout_marginStart="100dp"
+        android:gravity="center"
+        android:text="Ajouter le rendez-vous " />
+</FrameLayout>
+
+

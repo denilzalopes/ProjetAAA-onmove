@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580269087943",
+    "project_id": "onmove-e2eb2",
+    "storage_bucket": "onmove-e2eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580269087943:android:0efd684da4e10b82b6b2e2",
+        "android_client_info": {
+          "package_name": "com.example.onmove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIrCjYZT7-GBDGOnrrzQAGtCjPg4nm6NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
